@@ -49,13 +49,16 @@ As a developer, keyboard efficiency is one of my strongest assets. I type at a h
 
 <br/><br/>
 
-## 📫 You may reach me at:
+## 📫 Connect with me & find me online:
 <div align="left">
   <a href="https://www.linkedin.com/in/aaronmar-d-a4943a1a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aaronmardionisio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-aaronmardionisio@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://steamcommunity.com/id/Aaronmar/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
 </div>
 
