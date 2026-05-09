@@ -28,6 +28,27 @@ I am Aaronmar Dionisio, with a flair for coding and database management skills. 
 
 <br/>
 
+## ⌨️ Typing Skills
+As a developer, keyboard efficiency is one of my strongest assets. I type at a highly competitive level globally!
+> 🖥️ **Current Setup:** Lanktu LT84 & Ducky One 2 Skyline TKL  
+> ⏳ **Total Typing Time:** 17+ hours  
+
+### 📊 Monkeytype Statistics (All-Time Personal Bests)
+| ⏱️ Time Mode | Speed (WPM) | Accuracy | 🔠 Words Mode | Speed (WPM) | Accuracy |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **15 sec** | `182` | *98%* | **10 words** | `232` | *100%* |
+| **30 sec** | `155` | *97%* | **25 words** | `195` | *95%* |
+| **60 sec** | `133` | *93%* | **50 words** | `131` | *96%* |
+| **120 sec**| `112` | *93%* | **100 words**| `128` | *98%* |
+
+*🏆 **Leaderboard Status:** Top **1.03%** Global (15s) and Top **3.78%** Global (60s)*
+
+<a href="https://monkeytype.com/profile/Aaronmar" target="_blank">
+  <img src="https://img.shields.io/badge/View_my_live_Monkeytype_Profile-E2B714?style=for-the-badge&logo=monkeytype&logoColor=323437" alt="Monkeytype Profile" />
+</a>
+
+<br/><br/>
+
 ## 📫 You may reach me at:
 <div align="left">
   <a href="https://www.linkedin.com/in/aaronmar-d-a4943a1a0/" target="_blank">
@@ -41,4 +62,4 @@ I am Aaronmar Dionisio, with a flair for coding and database management skills. 
 <br/>
 
 ---
-⭐️ *From [Aaronmar Dionisio's GitHub](https://github.com/)*
+⭐️ *From[Aaronmar Dionisio's GitHub](https://github.com/)*
